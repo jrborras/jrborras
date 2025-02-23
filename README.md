@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm José 👋 
 
-<!--
-**jrborras/jrborras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Elevator Engineer | Electronics Enthusiast | Hardware Hacker
 
-Here are some ideas to get you started:
+⚡ Combining vertical transportation expertise with cutting-edge electronics and software development. Passionate about creating robust solutions that bridge physical systems and digital innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Toolkit
+
+### 🛠️ Hardware
+- PCB Design (KiCad, Altium)
+- PCB Repairing
+- Circuit Simulation & Analysis
+- Industrial Control Systems
+- Electrical Schematics
+- Sensor Integration
+- Motors and Drives. Big motor, big fun!
+
+### 💻 Software
+- Embedded Systems (Arduino, ESP32, STM32)
+- PLC (Schneider)
+- PLF Safe (Schneider, Omron, Schmersal)
+- Python (Automation, Scripting)
+- C/C++ (Firmware Development)
+- Web Development (JavaScript/Node.js)
+- CAD (AutoCAD)
+- CAE (EPLAN, Solidworks Electrical)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrborras/)
+[![Hackaday](https://img.shields.io/badge/Hackaday-1A1F25?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackaday.io/YOUR_PROFILE)
+[![Personal Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrborras@gmail.com)
+[![Work Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseramon@ascensoresalapont.net)
+
+## 🌱 Currently Exploring
+- Industrial IoT implementations
+- CAN Bus systems in modern elevators
+- Energy-efficient motor control systems
+- Automated testing frameworks for hardware
+
+_Powered by coffee and curiosity ☕_ 
