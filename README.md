@@ -27,7 +27,6 @@
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrborras/)
-[![Hackaday](https://img.shields.io/badge/Hackaday-1A1F25?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackaday.io/YOUR_PROFILE)
 [![Personal Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrborras@gmail.com)
 [![Work Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseramon@ascensoresalapont.net)
 
