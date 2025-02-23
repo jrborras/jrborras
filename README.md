@@ -18,7 +18,7 @@
 ### 💻 Software
 - Embedded Systems (Arduino, ESP32, STM32)
 - PLC (Schneider)
-- PLF Safe (Schneider, Omron, Schmersal)
+- PLC Safe (Schneider, Omron, Schmersal)
 - Python (Automation, Scripting)
 - C/C++ (Firmware Development)
 - Web Development (JavaScript/Node.js)
